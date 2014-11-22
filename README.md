@@ -1,7 +1,7 @@
 courses
 =======
 
-Material for several courses
+## Material for several courses
 
 In this section you will fount the code 'run_anallisys.r". With it you can use the information from the next link to generate a tidy data set.
 You only need to download de data and put yor folder path into 'rootDir' variable.

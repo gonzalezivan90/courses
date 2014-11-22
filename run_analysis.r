@@ -1,6 +1,5 @@
 ## 1. Setting working directory
 
-rootDir <- "C:/Users/GIC 76/Videos/DataCleaning&Getting/CourseProject"
 rootDir <- "C:/OneDrive/RCoursera_specialization//03_Getting&CleaningData//Project"
 setwd(paste0(rootDir,"/UCI HAR Dataset/"))
 
